@@ -54,11 +54,6 @@ Each visual is interactive and allows dynamic filtering to better explore the da
 
 ---
 
-## 📸 Screenshots
-
-![Dashboard Overview](https://1drv.ms/i/c/06be6ea24e8a161d/Edo5qaFWFclMiQ_nak-6s_QBNGEpsRi26SKzCdCSsIPrlg?e=1YCVAC)
-
----
 
 ## 🚀 How to Use
 
